@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/noctis_minimus/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/noctis_minimus/4-productive-time.svg)
+```
+
+    

@@ -32,23 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/algolia/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/algolia/4-productive-time.svg)
-```
-
-    
